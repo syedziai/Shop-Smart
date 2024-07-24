@@ -38,7 +38,7 @@ const SignIn = () => {
             placeholder="Password"
             className="w-full px-4 py-2 my-5 border rounded-md focus:outline-none focus:ring focus:border-blue-100"
           />
-          <button className="mt-4 w-full bg-blue-500 text-black py-2 rounded-md hover:bg-black hover:text-white transition-colors duration-300 focus:outline-none focus:ring focus:border-blue-300">
+          <button className="signin-btn mt-4 w-full text-black py-2 rounded-md hover:text-white transition-colors duration-300 focus:outline-none focus:ring focus:border-blue-300">
     Sign in
 </button>
 
